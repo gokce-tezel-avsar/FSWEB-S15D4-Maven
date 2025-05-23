@@ -1,11 +1,6 @@
 package org.example;
-
-import java.util.LinkedHashSet;
-import java.util.Set;
-
 public class Main {
     public static void main(String[] args) {
-        String cumle = "Hello World";
     }
 
     public static boolean checkForPalindrome(String cumle) {
@@ -18,7 +13,6 @@ public class Main {
         return true;
     }
 
-    int sayi;
 
     public static String convertDecimalToBinary(int sayi) {
         if(sayi == 0){
